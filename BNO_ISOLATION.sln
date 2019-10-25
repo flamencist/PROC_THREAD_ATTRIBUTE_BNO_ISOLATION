@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BNO_ISOLATION", "BNO_ISOLATION\BNO_ISOLATION.vcxproj", "{D4B9E30E-E1A9-4A9C-A111-644063304CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B9E30E-E1A9-4A9C-A111-644063304CC9}.Debug|x64.ActiveCfg = Debug|x64
+		{D4B9E30E-E1A9-4A9C-A111-644063304CC9}.Debug|x64.Build.0 = Debug|x64
+		{D4B9E30E-E1A9-4A9C-A111-644063304CC9}.Debug|x86.ActiveCfg = Debug|Win32
+		{D4B9E30E-E1A9-4A9C-A111-644063304CC9}.Debug|x86.Build.0 = Debug|Win32
+		{D4B9E30E-E1A9-4A9C-A111-644063304CC9}.Release|x64.ActiveCfg = Release|x64
+		{D4B9E30E-E1A9-4A9C-A111-644063304CC9}.Release|x64.Build.0 = Release|x64
+		{D4B9E30E-E1A9-4A9C-A111-644063304CC9}.Release|x86.ActiveCfg = Release|Win32
+		{D4B9E30E-E1A9-4A9C-A111-644063304CC9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E3FA682-DC69-41F2-883D-3895B3E668DF}
+	EndGlobalSection
+EndGlobal
