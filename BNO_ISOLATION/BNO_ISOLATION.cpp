@@ -28,7 +28,7 @@ int main()
 	while (true)
 	{
 		wchar_t program[1024];
-		wcout << "Enter program full path (C:\\Windows\\system32\\notepad.exe): " << endl;
+		wcout << "Enter program full path (for example: C:\\Windows\\system32\\notepad.exe): " << endl;
 		wcin.getline(program, 1024);
 
 		if(wstring(program).empty())
