@@ -16,3 +16,15 @@ The feature helps to isolate processes and breaks dependency of most of singleto
 C:\Program Files (x86)\Notepad++\notepad++.exe
 ```
 After that you get two instances of singleton application.
+
+### License
+
+This software is distributed under the terms of the MIT License (MIT).
+
+### Authors
+
+Alexander Chermyanin / [LinkedIn](https://www.linkedin.com/in/alexander-chermyanin)
+
+
+
+Contributions and bugs reports are welcome.
